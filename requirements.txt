@@ -1,0 +1,4 @@
+pyrogram
+tgcrypto
+pymongo  # Only if using MongoDB
+python-dotenv  # If using .env files
